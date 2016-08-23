@@ -1,2 +1,3 @@
 # hello-world
-My first github repository
+
+This file is the first submission to github.
